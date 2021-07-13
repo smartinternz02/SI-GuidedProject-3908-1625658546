@@ -1,0 +1,21 @@
+THE USE-CASES FOR IOT ARE:
+1)Enterprise Asset Management
+2)Predictive Maintainance
+3)Idustrial process automation
+4)Energy Management
+5)Outdoor Surveillance
+6)Smart Home Automation
+7)Smart Lighting
+8)Smart Parking
+9)Health Monitoring
+10)Smart Irrigation
+11)Water Quality Management
+12)UV Radiation Monitoring
+13)Remote Patient Monitoring
+14)AI Companion Robots
+15)Smart Product Management
+16)RC Appliances(with IOT)
+17)Smart Locks
+18)Motion Detection
+19)Smart Grid
+20)Connected Vehicles
